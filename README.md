@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   - [Rentx](https://github.com/romulofraga/ignite-rentx#readme)
 
 💬 Arquiterura e padrões de projeto <br>
-🌱 Aprendendo atualmente sobre o funcionamento do Dokcer e Docker-compose
+🌱 Aprendendo atualmente sobre o funcionamento do Docker e Docker-compose
 
 ----
 
